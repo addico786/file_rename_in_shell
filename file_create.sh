@@ -2,7 +2,7 @@
 ##############################
 # Author: Adnan
 # Date: 18-4-2025
-# About: a simple calculator in bash
+# About: you would need to create the files first 
 ##############################
 
 
